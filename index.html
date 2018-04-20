@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>painted corridor</title>
+	<link rel="stylesheet" href="css/gallery.css">
+</head>
+<body onselectstart="return false">
+	<div class="wrap" id="wrap">
+		<div class="photo photo_front" id="{{index}}">
+			<div class="photo-wrap">
+				<div class="side side-front">
+					<div class="image"><img src={{image}}></div>
+					<div class="caption">{{caption}}</div>
+				</div>
+				<div class="side side-back">
+					<div class="desc">描述信息</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="data.js"></script>
+	<script src="js/gallery.js"></script>
+</body>
+</html>
