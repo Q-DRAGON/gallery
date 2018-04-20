@@ -5,4 +5,4 @@
 ## 介绍
 原生JS + CSS3动画
 ## 预览
-[DEMO](https://q-dragon.github.io/gallery/)
+[DEMO](http://hugohua.gitee.io/gallery/)
